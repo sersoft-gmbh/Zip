@@ -11,5 +11,6 @@
 
 #import "unzip.h"
 #import "zip.h"
+#import "crypt.h"
 
 #endif /* Minizip_h */
